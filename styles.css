@@ -1,0 +1,12 @@
+.headerbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #063970
+
+}
+#h1 {
+    justify-self: left;
+
+
+}
